@@ -1,0 +1,637 @@
+table{
+    text-align: center;
+    width: 100%;
+}
+.div1{
+    width: 20%;
+    height: 200px;
+    float: left;
+    margin-left: 5px;
+}
+.div2{
+    width: 55%;
+    height: 200px;
+    float: left;
+  
+}
+.div2 h1{
+    color: blueviolet;
+}
+.div2 p{
+    background-color: greenyellow;
+    display: inline; 
+    padding: 7px 10px;
+   border-radius: 100px;
+    
+}
+.div2 form{
+    margin-top: 20px;
+}
+.div3 {
+    width: 20%;
+    height: 200px;
+    margin-right: 5px;
+    display: flex;
+    flex-direction: column;
+}
+.div3 img {
+    max-height: 100%;
+    width: auto;
+    align-self: flex-end; 
+}
+
+
+.roll-div1 {
+    width: 60%;
+    height: 50px;
+    text-align: left;
+    margin-left: 20px;
+    float: left;
+    
+   
+   
+}
+.roll-div1 {
+color: red;
+}
+.roll-div2{
+    width: 30%;
+    height: 50px;
+    margin-left: 20px;
+    float: left;
+   text-align: center;
+}
+.roll-div2 {
+    color: green;
+}
+
+
+.name-div1 form{
+    width: 100%;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.name-div1 input{
+   border: none;
+   width: 70%;
+   font-size: medium;
+   padding: 3px 0px;
+}
+
+
+.father1 form{
+    width: 70%;
+    text-align: left;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.father1 input{
+    border: none;
+    width: 50%;
+    font-size: medium;
+    padding: 3px 0px;
+}
+.father2 form{
+    width: 70%;
+    text-align: left;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.father2 input{
+    border: none;
+    width: 50%;
+    font-size: medium;
+    padding: 3px 0px;
+}
+
+
+.motherName form{
+    width: 100%;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.motherName input{
+   border: none;
+   width: 70%;
+   font-size: medium;
+   padding: 3px 0px;
+}
+
+
+.Income1 form{
+    width: 70%;
+    text-align: left;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.Income1 input{
+    border: none;
+    width: 50%;
+    font-size: medium;
+    padding: 3px 0px;
+}
+.Income2 form{
+    width: 70%;
+    text-align: left;
+    float: left;
+     margin-top: 10px;
+}
+.Income2 input{
+    border: none;
+    width: 50%;
+    font-size: medium;
+    padding: 3px 0px;
+}
+
+.motherPhone form{
+width: 70%;
+text-align: left;
+margin-left: 20px;
+}
+.motherPhone input{
+    border: none;
+    width: 50%;
+    font-size: medium;
+    padding: 3px 0px;
+}
+
+.velage1 form{
+    width: 95%;
+    text-align: left;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.velage1 input{
+    border: none;
+    width: 50%;
+    font-size: medium;
+    padding: 3px 0px;
+}
+.velage2 form{
+    width: 90%;
+    text-align: left;
+    float: left;
+    margin-left: 15%;
+    margin-top: 10px;
+}
+.velage2 input{
+    border: none;
+    width: 50%;
+    font-size: medium;
+    padding: 3px 0px;
+}
+.velage3 form{
+    width: 90%;
+    text-align: left;
+    float: left;
+    margin-left: 15%;
+    margin-top: 10px;
+}
+.velage3 input{
+    border: none;
+    width: 50%;
+    font-size: medium;
+    padding: 3px 0px;
+    
+}
+
+
+
+
+.city form{
+    width: 100%;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.city input{
+   border: none;
+   width: 70%;
+   font-size: medium;
+   padding: 3px 0px;
+}
+
+
+.twon1 form{
+    width: 90%;
+    text-align: left;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.twon1 input{
+    border: none;
+    width: 50%;
+    font-size: medium;
+    padding: 3px 0px;
+}
+.twon2 form{
+    width: 90%;
+    text-align: left;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.twon2 input{
+    border: none;
+    width: 50%;
+    font-size: medium;
+    padding: 3px 0px;
+}
+.twon3 form{
+    width: 90%;
+    text-align: left;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.twon3 input{
+    border: none;
+    width: 50%;
+    font-size: medium;
+    padding: 3px 0px;
+}
+
+.twon form{
+    width: 100%;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.twon input{
+   border: none;
+   width: 70%;
+   font-size: medium;
+   padding: 3px 0px;
+}
+
+.relative form{
+    width: 95%;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.relative input{
+   border: none;
+   width: 30%;
+   font-size: medium;
+   padding: 3px 0px;
+}
+
+
+.address1 form{
+    width: 90%;
+    text-align: left;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.address1 input{
+    border: none;
+    width: 50%;
+    font-size: medium;
+    padding: 3px 0px;
+}
+.address2 form{
+    width: 90%;
+    text-align: left;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.address2 input{
+    border: none;
+    width: 50%;
+    font-size: medium;
+    padding: 3px 0px;
+}
+.address3 form{
+    width: 90%;
+    text-align: left;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.address3 input{
+    border: none;
+    width: 50%;
+    font-size: medium;
+    padding: 3px 0px;
+}
+
+.phoneNumber1 form{
+    width: 90%;
+    text-align: left;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.phoneNumber1 input{
+    border: none;
+    width: 70%;
+    font-size: medium;
+    padding: 3px 0px;
+}
+.phoneNumber2 form{
+    width: 90%;
+    text-align: left;
+    float: left;
+}
+.phoneNumber2 input{
+    border: none;
+    width: 70%;
+    font-size: medium;
+    padding: 3px 0px;
+}
+
+.schoolName form{
+    width: 95%;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.schoolName input{
+   border: none;
+   width: 30%;
+   font-size: medium;
+   padding: 3px 0px;
+}
+
+.afterSchoolName1 form{
+    width: 90%;
+    text-align: left;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.afterSchoolName1 input{
+    border: none;
+    width: 50%;
+    font-size: medium;
+    padding: 3px 0px;
+}
+.afterSchoolName2 form{
+    width: 90%;
+    text-align: left;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+    text-align: end;
+}
+.afterSchoolName2 input{
+    border: none;
+    font-size: medium;
+    padding: 3px 0px;
+}
+
+.dateOfBirth form{
+    width: 95%;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.dateOfBirth input{
+   border: none;
+   width: 25%;
+   font-size: medium;
+   padding: 3px 0px;
+}
+
+
+
+.nationality1 form{
+    width: 90%;
+    text-align: left;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.nationality1 input{
+    border: none;
+    width: 70%;
+    font-size: medium;
+    padding: 3px 0px;
+}
+.nationality2 form{
+    width: 90%;
+    text-align: left;
+    float: left;
+}
+.nationality2 input{
+    border: none;
+    width: 70%;
+    font-size: medium;
+    padding: 3px 0px;
+}
+
+.SMS1 form{
+    width: 90%;
+    text-align: left;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.SMS2 form{
+    width: 90%;
+    text-align: left;
+    float: left;
+    margin-top: 10px;
+}
+
+
+.text form{
+    width: 95%;
+    text-align: left;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 10px;
+    
+}
+
+
+.student1 form {
+    text-align: left;
+   margin-top: 40px;
+}
+
+.student1 input {
+    margin-left: 20px;
+    width: 40%;
+    box-sizing: border-box;
+    border: none; 
+    outline: none; 
+    font-size: medium;
+    padding: 3px 0px;
+    margin-bottom: 10px;
+}
+
+.student1 label {
+    margin-left: 50px;
+    display: block;
+  font-weight: bold;
+   
+}
+.student2 form {
+    text-align: end;
+   margin-top: 40px;
+   /* margin-left: 18%px; */
+   margin-right: 20px;
+   
+}
+
+.student2 input {
+    margin-left: 20px;
+    width: 40%;
+    box-sizing: border-box;
+    border: none; 
+    outline: none; 
+    font-size: medium;
+    padding: 3px 0px;
+    margin-bottom: 10px;
+}
+
+.student2 label {
+    display: block;
+    font-weight: bold;
+   
+}
+
+.border{
+    border-bottom:  dotted;
+}
+
+.school{
+    margin-top: 5px;
+    color: red;
+}
+.category{
+    width: 80%;
+    text-align: right;
+    margin-right: 40px;
+    
+}
+
+.admissionDate1 form{
+    width: 90%;
+    text-align: left;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.admissionDate1 input{
+    border: none;
+    width: 30%;
+    font-size: medium;
+    padding: 3px 0px;
+}
+.admissionDate2 form{
+    width: 90%;
+    text-align: left;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.admissionDate2 input{
+    border: none;
+    width: 50%;
+    font-size: medium;
+    padding: 3px 0px;
+}
+.admissionDate3 form{
+    width: 90%;
+    text-align: left;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.admissionDate3 input{
+    border: none;
+    width: 50%;
+    font-size: medium;
+    padding: 3px 0px;
+}
+.admissionDate4 form{
+    width: 90%;
+    text-align: left;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.admissionDate4 input{
+    border: none;
+    width: 50%;
+    font-size: medium;
+    padding: 3px 0px;
+}
+
+
+.allStudent1 form{
+    width: 90%;
+    text-align: left;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.allStudent2 form{
+    width: 90%;
+    text-align: end;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+
+.teacher1 form {
+    text-align: left;
+   margin-top: 40px;
+}
+
+.teacher1 input {
+    margin-left: 20px;
+    width: 40%;
+    box-sizing: border-box;
+    border: none; 
+    outline: none; 
+    font-size: medium;
+    padding: 3px 0px;
+    margin-bottom: 10px;
+}
+
+.teacher1 label {
+    margin-left: 50px;
+    display: block;
+  font-weight: bold;
+   
+}
+.teacher2 form {
+    text-align: end;
+   margin-top: 40px;
+   /* margin-left: 18%px; */
+   margin-right: 20px;
+   
+}
+
+.teacher2 input {
+    margin-left: 20px;
+    width: 40%;
+    box-sizing: border-box;
+    border: none; 
+    outline: none; 
+    font-size: medium;
+    padding: 3px 0px;
+    margin-bottom: 10px;
+}
+
+.teacher2 label {
+    display: block;
+    font-weight: bold;
+   
+}
